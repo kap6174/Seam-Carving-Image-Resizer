@@ -1,10 +1,8 @@
 # Seam Carving Image Resizer
 
 ## Results
-<video width="1920" controls>
-  <source src="https://raw.githubusercontent.com/kap6174/Seam-Carving-Image-Resizer/main/Results.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A9uiIOozk2M" frameborder="0" allowfullscreen></iframe>
+
 
 ## Description
 This project implements seam carving, a content-aware image resizing technique. It adjusts the dimensions of an image by intelligently removing seams (paths of least importance) either vertically or horizontally. The goal is to resize the image without distorting or losing important visual content.
