@@ -2,7 +2,7 @@
 
 ## Results
 <video width="1920" controls>
-  <source src="Results.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/kap6174/Seam-Carving-Image-Resizer/main/Results.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
