@@ -1,7 +1,7 @@
 # Seam Carving Image Resizer
 
 ## Results
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A9uiIOozk2M" frameborder="0" allowfullscreen></iframe>
+https://github.com/user-attachments/assets/65a1a350-9bcd-471e-ba0c-fd0b06350642
 
 
 ## Description
