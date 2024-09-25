@@ -1,6 +1,7 @@
 # Seam Carving Image Resizer
 
 ## Results
+
 https://github.com/user-attachments/assets/65a1a350-9bcd-471e-ba0c-fd0b06350642
 
 
